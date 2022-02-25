@@ -18,9 +18,19 @@ Rustlings - https://github.com/rust-lang/rustlings/
 
 More Rust - https://www.rust-lang.org/learn
 
+Advent of Code - https://adventofcode.com/
+
+Leet Code - https://leetcode.com/
+
+Project Euler - https://projecteuler.net/
+
+CodinGame - https://www.codingame.com/
+
+Bug Tracker Project (Web Based)
+
 Udemy Videos
 
-Youtube Videos
+Youtube Channels
 - https://www.youtube.com/c/LetsGetRusty
 - https://www.youtube.com/c/PascalPrecht
 - https://www.youtube.com/c/RyanLevicksVideos
