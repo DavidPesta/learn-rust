@@ -1,0 +1,7 @@
+Default function parameters: 
+
+https://stackoverflow.com/questions/24047686/default-function-arguments-in-rust 
+
+fn add(a: Option<i32>, b: Option<i32>) -> i32 { 
+    a.unwrap_or(1) + b.unwrap_or(2) 
+} 
